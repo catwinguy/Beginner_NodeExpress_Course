@@ -1,4 +1,10 @@
 # NodeJs and Express Tutorial
+Purpose: Create a basic REST server with Node.js and Express. Practiced using Postman to GET and POST.
+
+Course Link: https://lab.github.com/everydeveloper/introduction-to-node-with-express
+
+Status: COMPLETE
+
 
 ## Description
 
@@ -14,4 +20,4 @@ This is a reference for the NodeJS and Express intro tutorial. You will be pushi
 
 1. ```npm init -y``` creates the package.json file.
 2. ```npm install express --save``` creates the node_modules folder since express has been installed.
-3. 
+3. Look at the old issues to see further instructions
